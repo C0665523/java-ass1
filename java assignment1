@@ -1,0 +1,56 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package javaapplication9;
+
+/**
+ *
+ * @author c0665523
+ */
+ */
+public class JavaApplication9 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+    }
+    
+}
+/*Job posting - http://www.indeed.ca/cmp/Tundra-Technical-
+
+Solution/jobs/Java-Developer-e134c3b38c56b119?q=java
+
+J2EE( Java Enterprise Edition) -
+
+https://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition                  
+
+     
+
+JSF(JavaServer Faces) -Component-based user interfaces for web 
+
+applications (https://en.wikipedia.org/wiki/JavaServer_Faces
+
+
+JQuery - A cross-platform JavaScript library
+
+(https://en.wikipedia.org/wiki/JQuery
+
+Oracle database -  https://en.wikipedia.org/wiki/Oracle_Database 
+Oracle database  is a relational database management system (RDBMS) 
+
+from the Oracle Corporation.
+
+HTML(HyperText Markup Language) - 
+
+https://en.wikipedia.org/wiki/HTML
+HTML is a markup language that is used to create web pages
+
+Salary -
+	toronto -60000
+	waterloo- 62000
+	Vancouver-65000
+	*/
